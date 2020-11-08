@@ -30,3 +30,8 @@ There are three questions of interest :
 This analysis look up to know which features have influence in the occupation of a place in Seattle. In a general analysis grouped dates of datasets to calculate the occupation percentage during all year, and builed a correlation matrix where there were not features with strong coefficients with the occupation.
 
 In an occupation analysis by month, weekday and several features of interest. This shows that for the main property type, Apartment and House, there are two season with more occupation but this percentage never to get more that 50%. By room type “Entire” is most frequent and its percentage is more high in January. The neighborhoods that have a better performance in the occupation percentage are Capitol Hill, Downtown and Queen Anne. Other analysis was if the price influences in the occupation percentage. There is not difference between expensive places and cheaper places.
+
+# references 
+-https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis
+
+-https://www.kaggle.com/dansbecker/using-categorical-data-with-one-hot-encoding
