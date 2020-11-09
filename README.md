@@ -10,6 +10,8 @@ There are three questions of interest :
 
 3.How are the place with more prices ? Is high their occupation ?
 
+BLOG IN MEDIUM: https://damaris-j-hernandez.medium.com/how-know-if-an-airbnb-place-will-be-in-demand-in-seattle-615ff798206a
+
 # Libraries used
 
 - numpy.
